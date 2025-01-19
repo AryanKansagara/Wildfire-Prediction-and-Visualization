@@ -43,7 +43,10 @@
    ```bash
    python main.py
    ```
-2. View the visualization: Open visualizations/fire_map.html in your browser.
+2. API keys in the .env
+   Replace placeholders in fetch_fire.py and fetch_weather.py with your NASA FIRMS and OpenWeatherMap API keys.
+
+3. View the visualization: Open visualizations/fire_map.html in your browser.
 
 ## Acknowledgements 
 * NASA FIRMS for wildfire data

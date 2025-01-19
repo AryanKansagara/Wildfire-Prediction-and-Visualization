@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 import fire from "./fire.jpeg";
 import "animate.css";
 

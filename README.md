@@ -45,7 +45,7 @@
    ```
 2. View the visualization: Open visualizations/fire_map.html in your browser.
 
-## Acknowledments
+## Acknowledgements
 * NASA FIRMS for wildfire data
 * OpenWeatherMap for weather data
 * Folium for interactive maps

@@ -54,4 +54,4 @@
 * Folium for interactive maps
 
 ## Link to the website
-[WildFire](https://wildfire-prediction-and-visualization.vercel.app/  )
+   [WildFire](https://wildfire-prediction-and-visualization.vercel.app/  )

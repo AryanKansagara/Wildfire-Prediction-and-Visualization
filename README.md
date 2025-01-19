@@ -13,9 +13,12 @@
    git clone https://github.com/yourusername/wildfire-prediction.git
 
 Install dependencies:
-'''pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 Usage
 Fetch weather and fire data using the provided scripts:
+```bash
 python main.py
+```
 View the visualization: Open visualizations/fire_map.html in your browser.

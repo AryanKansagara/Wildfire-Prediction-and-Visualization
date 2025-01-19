@@ -20,7 +20,7 @@ function App() {
           Project Wildfire
         </h1>
         <p className="text-xl mb-8 opacity-90 animate__animated animate__fadeIn animate__delay-2s">
-         sdjfja
+         Predicting wildfires, protecting communities — harnessing data for a safer tomorrow.
         </p>
 
         <div className="flex justify-center gap-8 animate__animated animate__fadeIn animate__delay-3s">

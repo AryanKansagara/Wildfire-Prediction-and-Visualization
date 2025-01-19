@@ -1,0 +1,5 @@
+.env
+env/Lib/site-packages/dotenv/
+env/Lib/site-packages/python_dotenv-1.0.1.dist-info/
+env/Scripts/dotenv.exe
+env

@@ -20,8 +20,7 @@ function App() {
           Project Wildfire
         </h1>
         <p className="text-xl mb-8 opacity-90 animate__animated animate__fadeIn animate__delay-2s">
-          Ignite your passion. Join the wildfire of collaboration, where ideas
-          spark and innovation blazes. Let’s create something extraordinary.
+         sdjfja
         </p>
 
         <div className="flex justify-center gap-8 animate__animated animate__fadeIn animate__delay-3s">

@@ -13,7 +13,7 @@
    git clone https://github.com/yourusername/wildfire-prediction.git
 
 Install dependencies:
-pip install -r requirements.txt
+'''pip install -r requirements.txt
 
 Usage
 Fetch weather and fire data using the provided scripts:

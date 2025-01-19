@@ -12,13 +12,13 @@
    ```bash
    git clone https://github.com/yourusername/wildfire-prediction.git
 
-Install dependencies:
+2.Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Usage
-Fetch weather and fire data using the provided scripts:
+## Usage
+1.Fetch weather and fire data using the provided scripts:
 ```bash
 python main.py
 ```
-View the visualization: Open visualizations/fire_map.html in your browser.
+2.View the visualization: Open visualizations/fire_map.html in your browser.
